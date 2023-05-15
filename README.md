@@ -24,3 +24,6 @@
 
 ## i make for you a live link to see final project on streamlit cloud (please visit it):
 
+## take code arduino from there:
+https://github.com/Rumidom/ESP8266toSupabase
+

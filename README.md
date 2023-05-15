@@ -2,6 +2,7 @@
 
 ## To comprehend this project and implement it,
 ## follow these steps in the video: 
+https://drive.google.com/file/d/11RKLyks1K0Dn-OLNN6F8uF4txOQ3kz43/view?usp=sharing
 
 ### steps for project (smart plant project):
 
